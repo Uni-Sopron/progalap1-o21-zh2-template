@@ -1,0 +1,79 @@
+[
+    {
+        "city": "Sopron",
+        "address": "Soproni Horváth József u. 37.",
+        "price": 28.5,
+        "area": 53.5,
+        "rooms": 2
+    },
+    {
+        "city": "Sopron",
+        "address": "Torna u. 10.",
+        "price": 29.9,
+        "area": 67,
+        "rooms": 3
+    },
+    {
+        "city": "Sopron",
+        "address": "Deák tér 19.",
+        "price": 52.9,
+        "area": 94,
+        "rooms": 4
+    },
+    {
+        "city": "Győr",
+        "address": "Kert u. 10.",
+        "price": 47.99,
+        "area": 61,
+        "rooms": 3
+    },
+    {
+        "city": "Győr",
+        "address": "Csutora u. 1.",
+        "price": 44.9,
+        "area": 68,
+        "rooms": 3
+    },
+    {
+        "city": "Győr",
+        "address": "Zrínyi u. 54.",
+        "price": 27.5,
+        "area": 53.5,
+        "rooms": 3
+    },
+    {
+        "city": "Győr",
+        "address": "Kagyló u. 10.",
+        "price": 39.9,
+        "area": 117,
+        "rooms": 4
+    },
+    {
+        "city": "Győr",
+        "address": "Márvány u. 9.",
+        "price": 18.59,
+        "area": 52,
+        "rooms": 2
+    },
+    {
+        "city": "Sopron",
+        "address": "Eilat u. 3.",
+        "price": 47,
+        "area": 53,
+        "rooms": 2
+    },
+    {
+        "city": "Sopron",
+        "address": "Határőr u. 6.",
+        "price": 28.9,
+        "area": 64,
+        "rooms": 3
+    },
+    {
+        "city": "Sopron",
+        "address": "Állomás u. 3.",
+        "price": 45,
+        "area": 83,
+        "rooms": 4
+    }
+]
